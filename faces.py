@@ -1,5 +1,4 @@
 import cv2 as cv
-from ultralytics import YOLO
 from roboflow import Roboflow
 
 rf = Roboflow(api_key="Minha-chave")
